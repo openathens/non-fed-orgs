@@ -1,4 +1,4 @@
 Display name to display in Wayfinder - no entity ID, Organisation name, https://www.openathens.net
 Bar-Ilan University - non-fed NOT existing entity ID , "Organisation name", https://www.openathens.somewhere.net, http://nonexisting.entityId.in.oafed.context.co.uk
 Bar-Ilan University - non-fed existing entity ID, Organisation name, https://www.openathens.net, https://idp.mail.biu.ac.il/openathens
-Test organisation, Test organisation, https://testorganisation.net, https://idp.test.entity.ac.uk/openathens
+Keagan's Test, Keagan's Test, https://www.openathens.net, https://www.keaganstest.net/oaauth
