@@ -7,7 +7,6 @@ AMPALS Demonstration Site,ampals-dem5,https://www.galileo.usg.edu/wayfinder/ampa
 Emory University,ampals-emu1,https://www.galileo.usg.edu/wayfinder/ampals-emu1-emory-university
 Interdenominational Theological Center,ampals-int1,https://www.galileo.usg.edu/wayfinder/ampals-int1-interdenominational-theological-center
 Morehouse College,ampals-mor1,https://www.galileo.usg.edu/wayfinder/ampals-mor1-morehouse-college
-Morehouse School of Medicine,ampals-msm1,https://www.galileo.usg.edu/wayfinder/ampals-msm1-morehouse-school-of-medicine
 Oglethorpe University,ampals-ogl1,https://www.galileo.usg.edu/wayfinder/ampals-ogl1-oglethorpe-university
 Spelman College,ampals-spe1,https://www.galileo.usg.edu/wayfinder/ampals-spe1-spelman-college
 AMPALS Test Site,ampals-tamp,https://www.galileo.usg.edu/wayfinder/ampals-tamp-ampals-test-site
@@ -1258,7 +1257,7 @@ Indian Knoll Elementary (Cherokee County),public_k12-sche:~elem~,https://www.gal
 J. Knox Elementary (Cherokee County),public_k12-sche:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sche:~elem~j-knox-elementary-cherokee-county
 Johnston Elementary School (Cherokee County),public_k12-sche:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sche:~elem~johnston-elementary-school-cherokee-county
 Liberty Elementary School (Cherokee County),public_k12-sche:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sche:~elem~liberty-elementary-school-cherokee-county
-Little River Elem. (Cherokee County),public_k12-sche:,https://www.galileo.usg.edu/wayfinder/public_k12-sche:little-river-elem-cherokee-county
+Little River Elementary (Cherokee County),public_k12-sche:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sche:littleriel~elem~little-river-elementary-cherokee-county
 Macedonia Elementary School (Cherokee County),public_k12-sche:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sche:~elem~macedonia-elementary-school-cherokee-county
 Mill Creek Middle School (Cherokee County),public_k12-sche:~midd~,https://www.galileo.usg.edu/wayfinder/public_k12-sche:~midd~mill-creek-middle-school-cherokee-county
 Mountain Road Elementary School (Cherokee County),public_k12-sche:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sche:~elem~mountain-road-elementary-school-cherokee-county
@@ -1702,7 +1701,6 @@ Miller Grove Middle School (DeKalb County),public_k12-sdek:~midd~,https://www.ga
 Montclair Elementary School (DeKalb County),public_k12-sdek:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sdek:~elem~montclair-elementary-school-dekalb-county
 Montgomery Elementary School (DeKalb County),public_k12-sdek:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sdek:~elem~montgomery-elementary-school-dekalb-county
 Murphy Candler Elementary School (DeKalb County),public_k12-sdek:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sdek:~elem~murphy-candler-elementary-school-dekalb-county
-Museum School Avondale Estates (DeKalb County),public_k12-sdek:,https://www.galileo.usg.edu/wayfinder/public_k12-sdek:museum-school-avondale-estates-dekalb-county
 Narvie Harris Elementary School (DeKalb County),public_k12-sdek:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sdek:~elem~narvie-harris-elementary-school-dekalb-county
 Oak Grove Elementary School (DeKalb County),public_k12-sdek:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sdek:~elem~oak-grove-elementary-school-dekalb-county
 Oakcliff Elementary School (DeKalb County),public_k12-sdek:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sdek:~elem~oakcliff-elementary-school-dekalb-county
@@ -1974,7 +1972,6 @@ Lake Forest Elementary (Fulton County),public_k12-sful:~elem~,https://www.galile
 Lake Windward Elementary School (Fulton County),public_k12-sful:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sful:~elem~lake-windward-elementary-school-fulton-county
 Langston Hughes High School (Fulton County),public_k12-sful:~high~,https://www.galileo.usg.edu/wayfinder/public_k12-sful:~high~langston-hughes-high-school-fulton-county
 Latin College Prep (Fulton County),public_k12-sful:,https://www.galileo.usg.edu/wayfinder/public_k12-sful:latin-college-prep-fulton-county
-Latin Grammar School (Fulton County),public_k12-sful:,https://www.galileo.usg.edu/wayfinder/public_k12-sful:latin-grammar-school-fulton-county
 Lee Elementary School (Fulton County),public_k12-sful:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sful:~elem~lee-elementary-school-fulton-county
 Liberty Point Elementary School (Fulton County),public_k12-sful:~elem~,https://www.galileo.usg.edu/wayfinder/public_k12-sful:~elem~liberty-point-elementary-school-fulton-county
 Main Street Charter Academy (Fulton County),public_k12-sful:,https://www.galileo.usg.edu/wayfinder/public_k12-sful:main-street-charter-academy-fulton-county
